@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Apple
+  - Banana
+  - ButtonPlay
+  - ButtonHowToPlay
+  - ButtonBack
+  - ButtonNextLevel
+  - ButtonLeft
+  - LockedWin
+  - ButtonUp
+  - ButtonDown
+  - ButtonRight
+  - ButtonReplay
+  - ButtonHome
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Body
+  - Water
+  - UI
+  - Apple
+  - 'wallLayer '
+  - Banana
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 2614087135
+    locked: 0
+  - name: Player
+    uniqueID: 2919946883
+    locked: 0
+  m_RenderingLayers:
+  - Default
